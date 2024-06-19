@@ -1,22 +1,16 @@
 ```
 <?php
-
 $response = array(
     "status" => 202,
     "data" => array(
-        "fullName" => "Ehsan Shahbazi",
-        "birthDay" => "2002 January 21, Monday",
-        "university" => "Computer Engineering Tabriz",
-        "hobbies" => array("podcast", "book", "movie", "hiking", "cycling", "web scraping"),
-        "languages" => array(".java(4x)", ".js(3x)", ".py(2x)", ".cpp(1x)"),
-        "quote" => "Do something that makes people's lives easier.",
-        "currently" => "STUDING_FOR_MS_EXAMINATION"
+        "fullName" => "Rayan Jaberi",
+        "birthDay" => "2001 August 21",
+        "university" => "Chamran Ahvaz",
+        "hobbies" => array("podcast", "book", "movie", "programming"),
+        "Skills" => array("javascript","PHP","HTML","css","JQuery","Bootstrap"),
+        "quote" => "When diplomacy ends, War begins",
     )
 );
-
-header('Content-Type: application/json');
-echo json_encode($response);
-
 ?>
 ```
 
