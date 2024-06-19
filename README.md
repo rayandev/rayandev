@@ -1,6 +1,6 @@
-```
+```php
 <?php
-$response = array(
+ $response = array(
     "status" => 202,
     "data" => array(
         "fullName" => "Rayan Jaberi",
