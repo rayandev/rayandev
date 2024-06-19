@@ -1,4 +1,4 @@
-<img src="https://s8.uupload.ir/files/ry_qpwo.jpg" />
+<img align="center" src="https://s8.uupload.ir/files/ry_skw.jpg" />
 
 ```php
 <?php
