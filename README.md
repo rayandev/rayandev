@@ -1,7 +1,3 @@
-## Hi there 👋
-
-
-**rayandev/rayandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<Img align="center" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-
+### Hi, This Is Rayan Jaberi <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Saluting%20Face.png" alt="Saluting Face" width="50" height="50" />
+Full Stack Developer
+<hr>
