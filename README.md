@@ -45,7 +45,7 @@
 );
 ?>
 ```
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,jquery,wordpress,php)]
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,jquery,wordpress,php,mysql)](#)
 <be>
 <br>
 <br>
