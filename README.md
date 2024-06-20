@@ -45,5 +45,9 @@
 );
 ?>
 ```
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,jquery,wordpress,php)](https://skillicons.dev)
+<be>
+<br>
+<br>
 ![](https://komarev.com/ghpvc/?username=rayandev&color=brightgreen&label=PROFILE+VIEWS&style=for-the-badge)
 ![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/rayandev)
